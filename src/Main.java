@@ -16,7 +16,10 @@ public class Main {
         System.out.println("****");
         System.out.println("*\n**");
         System.out.println("**\n*");
-        System.out.println("***\n");
+        System.out.println("***\n"
+                system.out.println("**\n*");
+        System.out.println("***\n"
+        
         {
 
 
